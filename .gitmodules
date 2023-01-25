@@ -1,0 +1,12 @@
+[submodule "aib-protocols"]
+	path = aib-protocols
+	url = https://github.com/chipsalliance/aib-protocols.git
+[submodule "aib-phy-hardware"]
+	path = aib-phy-hardware
+	url = https://github.com/chipsalliance/aib-phy-hardware.git
+[submodule "AIB-specification"]
+	path = AIB-specification
+	url = https://github.com/chipsalliance/AIB-specification.git
+[submodule "aib-phy-generator"]
+	path = aib-phy-generator
+	url = https://github.com/chipsalliance/aib-phy-generator.git
